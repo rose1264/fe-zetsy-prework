@@ -53,16 +53,16 @@ header a:hover {
 	color: rgb(122,122,122);
 }
 
-#featured img {
+#hero img {
 	border: 5px rgb(152,173,166) solid;
 }
 
-#featured a {
+#about a {
 	color: rgb(122,122,122);
 	text-decoration: none;
 }
 
-#featured a:hover {
+#about a:hover {
 	text-decoration: underline;
 }
 
